@@ -50,3 +50,7 @@ API documentation is available at [http://localhost:5000/apidocs/](http://localh
 ---
 
 Just replace `<your-repo-name>` with your actual repository name, and it’s ready to use!
+
+## License
+This project is licensed under the MIT License.
+
